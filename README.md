@@ -5,9 +5,13 @@ Este projeto visa automatizar o processo de precificação de planos de saúde c
 📁 Estrutura do Repositório
 
 medical-charges-ml/
+
 ├── datasets/
+
 │   └── insurance.csv           # Dados de entrada
+
 ├── medical-cost.ipynb          # Notebook com análise e modelagem
+
 └── README.md                   # Este arquivo
 
 📊 Descrição do Dataset
